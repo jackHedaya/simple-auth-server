@@ -5,7 +5,7 @@ I spent way too much time looking for a simple boilerplate that uses MongoDB and
 MongoDB needs to be installed on the server or system that is running. Docker support is currently being worked on.
 
 ## Get Started
-- `$ git clone https://github.com/jackHedaya/auth-server-boilerplate my-server`
+- `$ git clone https://github.com/jackHedaya/simple-auth-server my-server`
 - `$ cd my-server && yarn`
 
 ## Usage
