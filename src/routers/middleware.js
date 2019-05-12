@@ -25,7 +25,7 @@ module.exports = async (req, res, next) => {
   } else if (req.body.token) {
     const account = await Token.getAccount(req.body.token);
 
-    if (!token) {
+    if (!account) {
       res.status(403).send({ error: "Invalid token" });
       return;
     }
