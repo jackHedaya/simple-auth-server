@@ -1,5 +1,5 @@
 {
-  "name": "marian-server",
+  "name": "auth-express",
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Jack Hedaya <jackehedaya@gmail.com>",
